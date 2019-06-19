@@ -1,3 +1,7 @@
+h1 {
+    text-align: center;
+}
+
 body {
     padding: 20px;
 }
@@ -26,7 +30,7 @@ textarea {
     resize: none;
 }
 
-button, input[type= "reset"] {
+button, input[type="reset"] {
     background-color: cornflowerblue;
     color: white;
     padding: 15px;
@@ -36,3 +40,4 @@ button, input[type= "reset"] {
     cursor: pointer;
     transition: 0.3s;
 }
+
